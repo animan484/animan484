@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @animan484
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently Working for Carton Factory as Cost in Finance
+-  I’m currently Graduated by Computer science Degree
 - 💞️ I’m looking to collaborate on computer programming
 - 📫 How to reach me usin social media
 - 😄 Pronouns: ...
